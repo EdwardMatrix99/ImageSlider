@@ -1,0 +1,2 @@
+veririfcar path de imagenes y cambiar a consideacion.
+* directamente insetadas en el index. 
