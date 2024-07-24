@@ -1,1 +1,0 @@
-imagenes van directamente en el html, verifica el path y cambia imgenes originales a consideracion. 
